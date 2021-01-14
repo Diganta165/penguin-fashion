@@ -1,0 +1,43 @@
+.nav-padding > li{
+    padding-right: 30px;
+    padding-left: 30px;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, rgb(164, 188, 70),olivedrab);
+    padding: 10px 20px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.top-section, .bottom-section, .footer-section{
+    background-color: rgb(255,251,240,1);
+    
+}
+
+h1{
+    font-size:60px;
+}
+span{
+    color:#FABE4C;
+}
+.card-img img{
+    width:100%;
+    height: 60%;
+    background-color: rgb(241,241,241,1);
+    border-radius: 5%;
+    
+}
+.card-img{
+    border:0;
+}
+
+
+.footer-bg-color{
+    background: white;
+    border:0;
+}
+
+
